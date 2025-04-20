@@ -27,10 +27,10 @@
 ###
 
 <p align="left">
-I'm [Your Name] from [Your Country].<br><br>
+I'm Anukrati Pandey from Noida.<br><br>
 - 🔭 I’m currently working on full-stack MERN applications<br>
 - 📚 I'm currently learning Next.js and AI integrations<br>
-- ⚡ In my free time I code, learn and build fun UIs
+- ⚡ In my free time I code, learn and build fun projects.
 </p>
 
 ###
